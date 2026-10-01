@@ -19,3 +19,6 @@ Basta abrir `index.html` no navegador.
 
 ## Créditos
 - Aluno A (owner), Aluno B, Aluno C.
+Aluno A =  Ycaro Vieira
+Aluno B = Nycollas Ribeiro
+Aluno C = Francisco Tabatinga
